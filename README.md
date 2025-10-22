@@ -13,7 +13,7 @@ As a passionate mentor and trainer, I focus on sharing digital knowledge.
 Open to impactful projects and collaborations—contact me to develop your ideas, transform organizations, or create tools
 
 * ✉️  You can contact me at [nathi.bititi@gmail.com](mailto:nathi.bititi@gmail.com)
-* 🚀  I'm currently working on [Tonvootee](http://tonvootee.com)
+* 🚀  I'm currently working on [Tonvootee](http://tonvootee.com)  and [Godaalu](https://godaalu.com)
 * 🧠  I'm currently learning Cybersecurity
 
 <p align="left">
