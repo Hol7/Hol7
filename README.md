@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fabrone BITITI
 =======================================================================================================================================
 
-Developer - Cybersecurity - Speaker -Teacher
+Developer - Cybersecurity
 --------------------------------------------
 
 Fullstack software engineer designing end-to-end digital solutions (user interfaces, APIs, automated systems) using modern web technologies. I also value cybersecurity, data, AI, and automation, helping businesses and startups build useful, tailored digital tools.
@@ -13,7 +13,7 @@ As a passionate mentor and trainer, I focus on sharing digital knowledge.
 Open to impactful projects and collaborations—contact me to develop your ideas, transform organizations, or create tools
 
 * ✉️  You can contact me at [nathi.bititi@gmail.com](mailto:nathi.bititi@gmail.com)
-* 🚀  I'm currently working and building [Tonvootee](http://tonvootee.com)  and [Godaalu](https://godaalu.com)
+* 🚀  I'm currently working and building [Tonvootee](http://tonvootee.com) 
 * 🧠  I'm currently learning Cybersecurity
 
 <p align="left">
